@@ -1,0 +1,2 @@
+# StrukturePodatakaBlanketi
+Rešeni blanketi

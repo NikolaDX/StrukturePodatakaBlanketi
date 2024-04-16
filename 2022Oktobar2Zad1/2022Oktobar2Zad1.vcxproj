@@ -29,8 +29,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3712c396-904a-4eb5-91d7-76031775f31e}</ProjectGuid>
-    <RootNamespace>Januar2024Zadatak2</RootNamespace>
+    <ProjectGuid>{9746eb0b-3fa2-45e0-b1b3-0104e61a00fb}</ProjectGuid>
+    <RootNamespace>My2022Oktobar2Zad1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -157,7 +157,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -182,17 +182,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="HashObject.h" />
-    <ClInclude Include="HashTable.h" />
-    <ClInclude Include="OpenScatterTable.h" />
-    <ClInclude Include="ScatterObject.h" />
+    <ClInclude Include="LList.h" />
+    <ClInclude Include="LListNode.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HashObject.cpp" />
-    <ClCompile Include="HashTable.cpp" />
+    <ClCompile Include="LList.cpp" />
+    <ClCompile Include="LListNode.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="OpenScatterTable.cpp" />
-    <ClCompile Include="ScatterObject.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

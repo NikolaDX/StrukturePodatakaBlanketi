@@ -16,5 +16,7 @@ int main() {
 
 	l1->printAll();
 
+	delete l1;
+
 	return 0;
 }

@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2023DecembarZad1", "2023Dec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2023JunZad1", "2023JunZad1\2023JunZad1.vcxproj", "{DCBB319A-8436-41FB-8C02-854A02AEA37C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2023OktobarZad1", "2023OktobarZad1\2023OktobarZad1.vcxproj", "{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -69,6 +71,18 @@ Global
 		{DCBB319A-8436-41FB-8C02-854A02AEA37C}.Release|x64.Build.0 = Release|x64
 		{DCBB319A-8436-41FB-8C02-854A02AEA37C}.Release|x86.ActiveCfg = Release|Win32
 		{DCBB319A-8436-41FB-8C02-854A02AEA37C}.Release|x86.Build.0 = Release|Win32
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|x64.ActiveCfg = Debug|x64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|x64.Build.0 = Debug|x64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Debug|x86.Build.0 = Debug|Win32
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|ARM64.ActiveCfg = Release|ARM64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|ARM64.Build.0 = Release|ARM64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|x64.ActiveCfg = Release|x64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|x64.Build.0 = Release|x64
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|x86.ActiveCfg = Release|Win32
+		{3114ECC4-DA6C-48C7-A03E-BBC20C3C562F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
